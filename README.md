@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, me chamo Arthur!
 
-Atualmente sou estudante de Engenharia de Software na Universidade de Brasília e tenho interesse em diversas áreas da tecnlogia, dentre elas a Segurança da Informação, Machine Learning e Engenharia de Dados.
+Atualmente sou estudante de Engenharia de Software na Universidade de Brasília e tenho interesse em diversas áreas da tecnologia, dentre elas a Segurança da Informação, Machine Learning e Engenharia de Dados.
 
 ---
 
