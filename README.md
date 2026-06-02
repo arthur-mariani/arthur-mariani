@@ -1,6 +1,6 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, me chamo Arthur!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, me chamo Arthur Mariani!
 
-Atualmente sou estudante de Engenharia de Software na Universidade de Brasília e tenho interesse em diversas áreas da tecnologia, dentre elas a Segurança da Informação, Machine Learning e Engenharia de Dados.
+Atualmente sou estudante de Engenharia de Software na Universidade de Brasília e tenho interesse em diversas áreas da tecnologia, dentre elas a Cibersegurança e Machine Learning.
 
 ---
 
@@ -24,6 +24,6 @@ Atualmente sou estudante de Engenharia de Software na Universidade de Brasília 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur-mariani&show_icons=true&theme=tokyonight)
+![Arthur's GitHub stats](https://github-readme-stats-green-tau-5328k5d30s.vercel.app/api?username=arthur-mariani&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-mariani&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-green-tau-5328k5d30s.vercel.app/api/top-langs?username=arthur-mariani&layout=compact&theme=dark)
