@@ -1,33 +1,42 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, me chamo Arthur Mariani!
+<div align="center">
+  <img src="assets/header-grayscale.svg" alt="Arthur Mariani — Engenharia de Software e Cibersegurança" width="100%" />
 
-Atualmente sou estudante de Engenharia de Software na Universidade de Brasília e tenho interesse em diversas áreas da tecnologia, dentre elas a Cibersegurança e Inteliência Artificial.
+  <br>
+  <br>
 
----
+  <a href="https://www.linkedin.com/in/arthur-mariani/">
+    <img src="assets/linkedin-button.svg" alt="Abrir perfil de Arthur no LinkedIn" width="180" height="38" />
+  </a>
+</div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Skills
+<br>
 
-### Linguagens de programação & Ferramentas
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+## Sobre mim
 
-### Banco de dados
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+Atualmente sou graduando em Engenharia de Software. Gosto de entender como sistemas funcionam e de construir soluções claras, com atenção à qualidade do código e ao comportamento em condições adversas.
 
----
+## Aprendendo agora
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> GitHub Stats
+Estou aprofundando meus estudos em **Rust** e aplicando **SQLite**, **Linux** e **GitHub Actions** em um projeto local ligado à segurança de software. Também estou explorando práticas de **DevSecOps**, como testes automatizados, análise estática e verificação de dependências.
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats-green-tau-5328k5d30s.vercel.app/api?username=arthur-mariani&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-green-tau-5328k5d30s.vercel.app/api/top-langs?username=arthur-mariani&layout=compact&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=rust,sqlite,linux,githubactions&theme=dark" alt="Rust, SQLite, Linux e GitHub Actions" />
+
+## Tecnologias e ferramentas
+
+**Linguagens**<br>
+<img src="https://skillicons.dev/icons?i=py,java,c,js,ts&theme=dark" alt="Python, Java, C, JavaScript e TypeScript" />
+
+**Web e APIs**<br>
+<img src="https://skillicons.dev/icons?i=html,css,nextjs,fastapi,flask&theme=dark" alt="HTML5, CSS3, Next.js, FastAPI e Flask" />
+
+**Ferramentas**<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,latex&theme=dark" alt="Git, GitHub, Docker e LaTeX" />
+
+**Dados**<br>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+
+<br>
+
+<div align="center">
+  <img src="assets/footer.svg" alt="Onda decorativa em tons de cinza" width="100%" />
+</div>
