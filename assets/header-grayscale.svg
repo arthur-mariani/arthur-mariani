@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Arthur Mariani</title>
+  <desc id="desc">Banner em preto, branco e cinza inspirado em terminal, com ondas discretas e o nome Arthur Mariani.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0a0a0a"/>
+      <stop offset="1" stop-color="#202020"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#252525"/>
+      <stop offset=".55" stop-color="#555555"/>
+      <stop offset="1" stop-color="#8d8d8d"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#background)"/>
+  <path d="M0 240 C200 217 300 266 525 245 S900 198 1200 239 L1200 300 L0 300Z" fill="url(#wave)" opacity=".62"/>
+  <path d="M0 267 C225 291 376 240 592 261 S949 281 1200 251 L1200 300 L0 300Z" fill="#333333" opacity=".82"/>
+
+  <path d="M0 44H1200" stroke="#474747" stroke-width="1"/>
+  <circle cx="28" cy="22" r="5" fill="#8c8c8c"/>
+  <circle cx="46" cy="22" r="5" fill="#696969"/>
+  <circle cx="64" cy="22" r="5" fill="#484848"/>
+  <text x="88" y="27" fill="#aaaaaa" font-size="14" font-family="DejaVu Sans Mono, Consolas, monospace">~/arthur-mariani</text>
+  <text x="1170" y="27" text-anchor="end" fill="#888888" font-size="14" font-family="DejaVu Sans Mono, Consolas, monospace">README.md</text>
+
+  <text x="600" y="110" text-anchor="middle" fill="#a6a6a6" font-size="18" font-family="DejaVu Sans Mono, Consolas, monospace">$ echo $USER</text>
+  <text x="600" y="180" text-anchor="middle" fill="#f5f5f5" font-size="60" font-weight="700" font-family="DejaVu Sans, Arial, sans-serif">Arthur Mariani</text>
+  <text x="600" y="216" text-anchor="middle" fill="#c6c6c6" font-size="19" font-family="DejaVu Sans Mono, Consolas, monospace">ENGENHARIA DE SOFTWARE  /  CIBERSEGURANÇA</text>
+</svg>
