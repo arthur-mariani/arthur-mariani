@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/header-grayscale.svg" alt="Arthur Mariani — Engenharia de Software e Cibersegurança" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-waves-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-waves-light.gif" />
+    <img src="assets/header-waves-light.gif" alt="Arthur Mariani — Engenharia de Software e Cibersegurança, com ondas animadas" width="100%" />
+  </picture>
 
   <br>
   <br>
-
-  <a href="https://www.linkedin.com/in/arthur-mariani/">
-    <img src="assets/linkedin-button.svg" alt="Abrir perfil de Arthur no LinkedIn" width="180" height="38" />
-  </a>
 </div>
 
 <br>
@@ -34,9 +34,15 @@ Estou aprofundando meus estudos em **Rust** e aplicando **SQLite**, **Linux** e 
 
 **Dados**<br>
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
+<img src="assets/json-icon.svg" alt="JSON" width="48" height="48" />
 
 <br>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Onda decorativa em tons de cinza" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-waves-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/footer-waves-light.gif" />
+    <img src="assets/footer-waves-light.gif" alt="Ondas animadas nas cores do GitHub" width="100%" />
+  </picture>
 </div>
+
